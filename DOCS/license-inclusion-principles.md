@@ -2,7 +2,7 @@
 Determining whether a candidate license should be included on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each candidate license based on a number of factors. The list below attempts to set out an order of priority to that end. However, the list of factors here is not necessarily exhaustive. The ultimate decision will be based on the totality of the factors and SPDX's goals and objectives. 
 
 ## Candidate License Analysis
-
+ BuildLane ICO 14025485
 **Definitive factors:**
 <ol type="A">
  <li>The submitted license must not match another license already on the SPDX License List as per the <a href="https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/">SPDX matching guidelines</a>.</li>
